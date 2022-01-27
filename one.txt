@@ -1,4 +1,6 @@
 Hi there,
 This is Atin...
 
+Learning Git. Git is awesome!
+
 Regards.
